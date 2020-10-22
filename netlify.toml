@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "*"
+  to = "https://jamstackhandbook.com/"
+  status = 302
